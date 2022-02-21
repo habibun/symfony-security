@@ -1,21 +1,29 @@
-# symfony-random
-Random Features
+# symfony-security
 
-link: https://symfony.com/doc/current/security/form_login.html
+Implements SecurityBundle in symfony
 
-Releases:
+| Repository Branch                                    | Security Bundle Version | Symfony Version | PHP Version     |
+|------------------------------------------------------|-------------------------|-----------------|-----------------|
+| [feature-custom-authentication-system-with-guard][1] | `5.1.*`                 | `5.1.x`         | `7.2` or higher |
+| [feature-form-login][2]                              | `5.1.*`                 | `5.1.x`         | `7.2` or higher |
+| [feature-form-login-authenticator][3]                | `5.1.*`                 | `5.1.x`         | `7.2` or higher |
 
-1. [The Value Object and Doctrine](https://github.com/habibun/symfony-random/tree/1.0.1)
 
-1. [UUIDs in Symfony and Doctrine](https://github.com/habibun/symfony-random/tree/2.0.0)
+Read [The Cache Component Docs](https://symfony.com/doc/current/components/cache.html)
 
-1. [Heroku: Cloud Application Platform](https://github.com/habibun/symfony-random/tree/3.0.0)
+Resources:
+- `feature-custom-authentication-system-with-guard`
+  - [Custom Authentication System with Guard (API Token Example)](https://symfony.com/doc/5.2/security/guard_authentication.html) 
 
-1. [User’s Locale](https://github.com/habibun/symfony-random/tree/4.0.0)
-   
-1. [VichUploaderBundle](https://github.com/habibun/symfony-random/tree/5.0.0)
-   
-1. [Voters to Check User Permissions](https://github.com/habibun/symfony-random/tree/6.0.0)
-   
-1. [Custom Authentication System with Guard (API Token)](https://github.com/habibun/symfony-random/tree/7.0.0)
+- `feature-form-login`
+  - [How to Build a Login Form)](https://symfony.com/doc/5.2/security/form_login_setup.html) 
 
+- `feature-form-login-authenticator`
+  - [Form Login Authenticator)](https://symfony.com/doc/current/security/form_login.html) 
+
+[1]: https://github.com/habibun/symfony-security/tree/feature-custom-authentication-system-with-guard
+[2]: https://github.com/habibun/symfony-security/tree/feature-form-login
+[3]: https://github.com/habibun/symfony-security/tree/feature-form-login-authenticator
+
+## License
+The code is licensed under the [MIT License](https://github.com/habibun/symfony-cache/blob/master/LICENSE).

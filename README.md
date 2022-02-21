@@ -1,18 +1,21 @@
-# symfony-cache
+# symfony-random
+Random Features
 
-Implements symfony cache component in symfony
+link: https://symfony.com/doc/current/security/form_login.html
 
-| Repository Branch | cache       Version | Symfony Version | PHP Version     |
-|-------------------|---------------------|-----------------|-----------------|
-| [4.x][1]          | `4.x`               | `4.4.x`         | `7.4` or higher |
+Releases:
 
+1. [The Value Object and Doctrine](https://github.com/habibun/symfony-random/tree/1.0.1)
 
-Read [The Cache Component Docs](https://symfony.com/doc/current/components/cache.html)
+1. [UUIDs in Symfony and Doctrine](https://github.com/habibun/symfony-random/tree/2.0.0)
 
-Resources:
-- [Symfony Cache](https://codereviewvideos.com/course/symfony-cache)
+1. [Heroku: Cloud Application Platform](https://github.com/habibun/symfony-random/tree/3.0.0)
 
-[1]: https://github.com/habibun/symfony-cache/tree/4.x
+1. [User’s Locale](https://github.com/habibun/symfony-random/tree/4.0.0)
+   
+1. [VichUploaderBundle](https://github.com/habibun/symfony-random/tree/5.0.0)
+   
+1. [Voters to Check User Permissions](https://github.com/habibun/symfony-random/tree/6.0.0)
+   
+1. [Custom Authentication System with Guard (API Token)](https://github.com/habibun/symfony-random/tree/7.0.0)
 
-## License
-The code is licensed under the [MIT License](https://github.com/habibun/symfony-cache/blob/master/LICENSE).
